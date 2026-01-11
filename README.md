@@ -38,7 +38,7 @@ Quiz-Game-Application/
 ## 🚀 How to Run the Project
 
 1. Clone the repository  
-   git clone https://github.com/your-username/quiz-game-application.git
+   git clone https://codedbydivya.github.io/SCT_WD_3_Alternative/
 
 2. Open the project folder  
    cd quiz-game-application
