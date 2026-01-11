@@ -51,7 +51,7 @@ Quiz-Game-Application/
 ## 🌐 Live Demo
 
 🔗 **Live Link:**  
-ttps://codedbydivya.github.io/SCT_WD_3_Alternative/
+https://codedbydivya.github.io/SCT_WD_3_Alternative/
 
 ---
 
